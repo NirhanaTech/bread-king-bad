@@ -33,9 +33,9 @@ Menambahkan fitur history detection
 👨‍💻 Author
 
 Made with AI & passion by:
-Reyhan Nirhana
-Ilham Nur Salam
-Rizwan Fahreza
-Dimas Ardiyansyah
-Zaidan Zia Ulhaq
+Reyhan Nirhana,
+Ilham Nur Salam,
+Rizwan Fahreza,
+Dimas Ardiyansyah,
+Zaidan Zia Ulhaq,
 Aep Saepulloh
